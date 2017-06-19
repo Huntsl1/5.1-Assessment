@@ -1,0 +1,19 @@
+{
+  "name": "5.1-assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.15.3",
+    "lorem-ipsum": "^1.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lorem"
+  ],
+  "author": "Stephen Hunt",
+  "license": "ISC"
+}
